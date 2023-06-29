@@ -1,8 +1,8 @@
 # io-ui-components
 React-Native UI components 
 
-# Install using npm
+## Install using npm
   npm i io-ui
   
-# Install using yarn
+## Install using yarn
   yarn add io-ui
