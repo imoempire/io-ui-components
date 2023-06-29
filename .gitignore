@@ -12,6 +12,9 @@ build/
 logs/
 *.log
 
+# Notes
+notes.txt
+
 # Ignore sensitive or environment-specific files
 .env
 .env.local
