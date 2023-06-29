@@ -12,7 +12,7 @@
     "custompacks",
     "custom react-native"
   ],
-  "author": "ISaac Obeng",
+  "author": "Isaac Obeng",
   "license": "ISC",
   "devDependencies": {
     "lottie-react-native": "^5.1.6",
