@@ -1,5 +1,5 @@
 {
-  "name": "io-ui",
+  "name": "@imoempire/io-ui-elements",
   "version": "0.0.1",
   "description": "custom react native components",
   "main": "index.ts",
@@ -23,5 +23,6 @@
     "expo": "^47.0.0",
     "react-native": "^0.70"
   },
+  "repository": "git://github.com/imoempire/io-ui-element.git",
   "dependencies": {}
 }
