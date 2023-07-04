@@ -4,6 +4,7 @@
   "description": "react-native ui components",
   "main": "index.ts",
   "scripts": {
+    "build": "echo \"Success: dummy build process\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
